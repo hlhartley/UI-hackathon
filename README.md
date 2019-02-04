@@ -1,4 +1,7 @@
-## Wireframe: Assets
+# WARM-UP CHECK-UP
+### An app designed to help you workout regularly and track your progress 
+
+## Fonts / Background Image
 ![Screenshot](assets.png)
 - Find actual background img in uploaded files
 
