@@ -1,6 +1,8 @@
 # WARM-UP CHECK-UP
 - An app designed to help you workout regularly and track your progress 
 
+Link: http://frontend.turing.io/projects/ux-ui-team-hackathon.html
+
 ## Fonts / Background Image
 ![Screenshot](assets.png)
 - Find actual background img in uploaded files
