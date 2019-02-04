@@ -1,5 +1,5 @@
 # WARM-UP CHECK-UP
-### An app designed to help you workout regularly and track your progress 
+- An app designed to help you workout regularly and track your progress 
 
 ## Fonts / Background Image
 ![Screenshot](assets.png)
