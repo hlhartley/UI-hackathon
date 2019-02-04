@@ -6,5 +6,5 @@
 ![Screenshot](main-wireframes.png)
 
 ## Wireframe: Mobile View
-![Screenshot](moblie-wireframes.png)
+![Screenshot](mobile-wireframes.png)
 
