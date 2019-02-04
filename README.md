@@ -1,9 +1,10 @@
 ## Wireframe: Assets
-![Screenshot](fotofinder2-1.png)
+![Screenshot](assets.png)
+- Find actual background img in uploaded files
 
 ## Wireframe: Desktop View
-![Screenshot](fotofinder2-1.png)
+![Screenshot](main-wireframes.png)
 
 ## Wireframe: Mobile View
-![Screenshot](fotofinder2-1.png)
+![Screenshot](moblie-wireframes.png)
 
